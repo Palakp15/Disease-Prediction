@@ -19,7 +19,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 1. **Clone the repo**:
 
    ```bash
-   https://github.com/rishabh3562/Disease-Prediction.git
+   https://github.com/Palakp15/Disease-Prediction.git
    ```
 
 2. **Create and activate virtual environment**:
@@ -61,7 +61,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 
 * **Name**:Palak Pathak
 * **Tech Stack**: Python, Flask, Tailwind CSS
-* **GitHub**: [github.com/Palakp15]([https://github.com/rishabh3562](https://github.com/Palakp15/)
+* **GitHub**: [github.com/Palakp15](https://github.com/Palakp15/)
 * **Email**: [palakpathak1028@gmail.com](palakpathak1028@gmail.com)
 
 ---
